@@ -1,0 +1,35 @@
+  
+  git clone https://github.com/aic2/APP_SAICC
+  cd APP_SAICC
+  
+  APP_SAICC> git config user.email marciojrtorres@gmail.com
+  APP_SAICC> git config user.name marciojrtorres
+  APP_SAICC> git pull      (puxar do remoto)
+  (criado um arquivo teste.txt)
+  APP_SAICC> git status    (ver o estado, se há algo para comitar)
+  APP_SAICC> git add teste.txt   (estagiando o arquivo)
+  APP_SAICC> git commit -m "uma mensagem explicativa"
+  APP_SAICC> git push      (empurrar para o repositório, se falhar
+                            faz um git pull e tenta de novo)
+                            
+  git checkout -b minhanovafuncionalidade
+  gedit novoarquivo.txt
+  git add novoarquivo.txt
+  git commit -m "nova funcionalidade"
+  (se quiser enviar para o remoto)
+  git push --set-upstream origin minhanovafuncionalidade
+  (se quiser mesclar com o master)
+  git checkout master
+  git merge minhanovafuncionalidade
+  git push
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
