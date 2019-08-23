@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "718317606255",
+    "firebase_url": "https://saicix.firebaseio.com",
+    "project_id": "saicix",
+    "storage_bucket": "saicix.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718317606255:android:3049c9db748c4b27",
+        "android_client_info": {
+          "package_name": "com.example.saicc_ix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718317606255-l2vlj34o0b2s4o1dm9t5gdb1om3r620g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXju6i5bHASRX4mvdbDba4JpbvHL-wiQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718317606255-l2vlj34o0b2s4o1dm9t5gdb1om3r620g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
